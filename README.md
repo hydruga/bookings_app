@@ -1,4 +1,4 @@
-# Bookings app to explore using GO for building Web Apps
+# Web Server to be used for bookings app, this is a learning project. 
 
 - Built in Go 
 - Uses the chi router
